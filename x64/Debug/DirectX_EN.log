@@ -1,0 +1,55 @@
+﻿  compilation object save succeeded; see C:\Users\小笠原　柊\Desktop\DirectX_EN\x64\Debug\OBJPixelShader.cso
+  compilation object save succeeded; see C:\Users\小笠原　柊\Desktop\DirectX_EN\x64\Debug\OBJVertexShader.cso
+  compilation object save succeeded; see C:\Users\小笠原　柊\Desktop\DirectX_EN\x64\Debug\BasicPS.cso
+  compilation object save succeeded; see C:\Users\小笠原　柊\Desktop\DirectX_EN\x64\Debug\BasicVS.cso
+  Audio.cpp
+C:\Users\小笠原　柊\Desktop\DirectX_EN\DirectX_EN\Audio.cpp(16,13): warning C4101: 'result': ローカル変数は 1 度も使われていません。
+  Collision.cpp
+  CollisionPrimitive.cpp
+  DirectXCommon.cpp
+  Input.cpp
+  main.cpp
+C:\Users\小笠原　柊\Desktop\DirectX_EN\DirectX_EN\main.cpp(1150,15): warning C4244: '初期化中': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\小笠原　柊\Desktop\DirectX_EN\DirectX_EN\main.cpp(1896,12): error C2374: 'audio': 再定義されています。2 回以上初期化されています。
+C:\Users\小笠原　柊\Desktop\DirectX_EN\DirectX_EN\main.cpp(998): message : 'audio' の宣言を確認してください
+C:\Users\小笠原　柊\Desktop\DirectX_EN\DirectX_EN\main.cpp(2070,42): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\小笠原　柊\Desktop\DirectX_EN\DirectX_EN\main.cpp(2071,42): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+  Model.cpp
+  Sprite.cpp
+C:\Users\小笠原　柊\Desktop\DirectX_EN\DirectX_EN\PipeLineSet.h(9,11): error C2143: 構文エラー: ';' が '<' の前にありません。
+C:\Users\小笠原　柊\Desktop\DirectX_EN\DirectX_EN\PipeLineSet.h(9,11): error C4430: 型指定子がありません - int と仮定しました。メモ: C++ は int を既定値としてサポートしていません
+C:\Users\小笠原　柊\Desktop\DirectX_EN\DirectX_EN\PipeLineSet.h(9,45): error C2238: ';' の前に無効なトークンがあります。
+C:\Users\小笠原　柊\Desktop\DirectX_EN\DirectX_EN\PipeLineSet.h(11,11): error C2143: 構文エラー: ';' が '<' の前にありません。
+C:\Users\小笠原　柊\Desktop\DirectX_EN\DirectX_EN\PipeLineSet.h(11,11): error C4430: 型指定子がありません - int と仮定しました。メモ: C++ は int を既定値としてサポートしていません
+C:\Users\小笠原　柊\Desktop\DirectX_EN\DirectX_EN\PipeLineSet.h(11,45): error C2238: ';' の前に無効なトークンがあります。
+C:\Users\小笠原　柊\Desktop\DirectX_EN\DirectX_EN\Sprite.cpp(133,92): error C2572: 'Sprite::Initialize' : 既定引数の再定義: パラメーター 1
+C:\Users\小笠原　柊\Desktop\DirectX_EN\DirectX_EN\Sprite.h(98): message : 'Sprite::Initialize' の宣言を確認してください
+C:\Users\小笠原　柊\Desktop\DirectX_EN\DirectX_EN\Sprite.cpp(133,122): error C2572: 'Sprite::Initialize' : 既定引数の再定義: パラメーター 2
+C:\Users\小笠原　柊\Desktop\DirectX_EN\DirectX_EN\Sprite.h(98): message : 'Sprite::Initialize' の宣言を確認してください
+C:\Users\小笠原　柊\Desktop\DirectX_EN\DirectX_EN\Sprite.cpp(133,144): error C2572: 'Sprite::Initialize' : 既定引数の再定義: パラメーター 3
+C:\Users\小笠原　柊\Desktop\DirectX_EN\DirectX_EN\Sprite.h(98): message : 'Sprite::Initialize' の宣言を確認してください
+  SpriteCommon.cpp
+C:\Users\小笠原　柊\Desktop\DirectX_EN\DirectX_EN\PipeLineSet.h(9,11): error C2143: 構文エラー: ';' が '<' の前にありません。
+C:\Users\小笠原　柊\Desktop\DirectX_EN\DirectX_EN\PipeLineSet.h(9,11): error C4430: 型指定子がありません - int と仮定しました。メモ: C++ は int を既定値としてサポートしていません
+C:\Users\小笠原　柊\Desktop\DirectX_EN\DirectX_EN\PipeLineSet.h(9,45): error C2238: ';' の前に無効なトークンがあります。
+C:\Users\小笠原　柊\Desktop\DirectX_EN\DirectX_EN\PipeLineSet.h(11,11): error C2143: 構文エラー: ';' が '<' の前にありません。
+C:\Users\小笠原　柊\Desktop\DirectX_EN\DirectX_EN\PipeLineSet.h(11,11): error C4430: 型指定子がありません - int と仮定しました。メモ: C++ は int を既定値としてサポートしていません
+C:\Users\小笠原　柊\Desktop\DirectX_EN\DirectX_EN\PipeLineSet.h(11,45): error C2238: ';' の前に無効なトークンがあります。
+C:\Users\小笠原　柊\Desktop\DirectX_EN\DirectX_EN\SpriteCommon.cpp(149,43): error C2039: 'pipelinestate': 'PipeLineSet' のメンバーではありません
+C:\Users\小笠原　柊\Desktop\DirectX_EN\DirectX_EN\PipeLineSet.h(7): message : 'PipeLineSet' の宣言を確認してください
+C:\Users\小笠原　柊\Desktop\DirectX_EN\DirectX_EN\SpriteCommon.cpp(152,51): error C2039: 'rootsignature': 'PipeLineSet' のメンバーではありません
+C:\Users\小笠原　柊\Desktop\DirectX_EN\DirectX_EN\PipeLineSet.h(7): message : 'PipeLineSet' の宣言を確認してください
+C:\Users\小笠原　柊\Desktop\DirectX_EN\DirectX_EN\SpriteCommon.cpp(326,9): error C2039: 'rootsignature': 'PipeLineSet' のメンバーではありません
+C:\Users\小笠原　柊\Desktop\DirectX_EN\DirectX_EN\PipeLineSet.h(7): message : 'PipeLineSet' の宣言を確認してください
+C:\Users\小笠原　柊\Desktop\DirectX_EN\DirectX_EN\SpriteCommon.cpp(326,9): error C2672: 'IID_PPV_ARGS_Helper': 一致するオーバーロードされた関数が見つかりませんでした。
+C:\Users\小笠原　柊\Desktop\DirectX_EN\DirectX_EN\SpriteCommon.cpp(325,21): error C2660: 'ID3D12Device::CreateRootSignature': 関数に 3 個の引数を指定できません。
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\d3d12.h(7978,43): message : 'ID3D12Device::CreateRootSignature' の宣言を確認してください
+C:\Users\小笠原　柊\Desktop\DirectX_EN\DirectX_EN\SpriteCommon.cpp(328,44): error C2039: 'rootsignature': 'PipeLineSet' のメンバーではありません
+C:\Users\小笠原　柊\Desktop\DirectX_EN\DirectX_EN\PipeLineSet.h(7): message : 'PipeLineSet' の宣言を確認してください
+C:\Users\小笠原　柊\Desktop\DirectX_EN\DirectX_EN\SpriteCommon.cpp(331,63): error C2039: 'pipelinestate': 'PipeLineSet' のメンバーではありません
+C:\Users\小笠原　柊\Desktop\DirectX_EN\DirectX_EN\PipeLineSet.h(7): message : 'PipeLineSet' の宣言を確認してください
+C:\Users\小笠原　柊\Desktop\DirectX_EN\DirectX_EN\SpriteCommon.cpp(331,63): error C2672: 'IID_PPV_ARGS_Helper': 一致するオーバーロードされた関数が見つかりませんでした。
+C:\Users\小笠原　柊\Desktop\DirectX_EN\DirectX_EN\SpriteCommon.cpp(331,103): error C2660: 'ID3D12Device::CreateGraphicsPipelineState': 関数に 1 個の引数を指定できません。
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\d3d12.h(7947,43): message : 'ID3D12Device::CreateGraphicsPipelineState' の宣言を確認してください
+  WinApp.cpp
+  コードを生成中...
